@@ -1,4 +1,4 @@
 
-print("hello python,I love you very very much")
+print("hello python,I love you")
 
 
